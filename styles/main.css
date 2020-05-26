@@ -2138,19 +2138,19 @@ body {
     .archive-timeline-box::after, .tag-timeline-wrapper::after {
       background: #eeeeeefe;
     }h1, h2, h3, h4, h5, h6 {
-      color: #555;
+      color: #5c7cfa;
     }
     
     .archive-timeline-title::before {
-      background-color: #555;
+      background-color: #5c7cfa;
     }
     
     .post-title-link::before {
-      background-color: #555;
+      background-color: #5c7cfa;
     }
     
     .node-title::before {
-      background-color: #555;
+      background-color: #5c7cfa;
     }a {
       color: #555;
     }
