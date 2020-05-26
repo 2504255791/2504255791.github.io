@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://2504255791.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-05-26T14:24:29.014Z</updated>
+    <title>青花鱼</title>
+    <updated>2020-05-26T14:29:51.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://2504255791.github.io"/>
     <link rel="self" href="https://2504255791.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>上最高的网，做最咸的鱼</subtitle>
     <logo>https://2504255791.github.io/images/avatar.png</logo>
     <icon>https://2504255791.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 青花鱼</rights>
     <entry>
         <title type="html"><![CDATA[测试1]]></title>
         <id>https://2504255791.github.io/post/ce-shi-1/</id>
